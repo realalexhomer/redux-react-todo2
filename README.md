@@ -1,2 +1,1 @@
-# redux-react-todo2
-Using my own build config
+my own config, learning some webpack
